@@ -1,3 +1,3 @@
 # InstaLogin
 UI Tutorial
-Intsagram Login screen for youtube tutorial series
+Intsagram Login screen for youtube tutorial serie
